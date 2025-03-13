@@ -20,12 +20,15 @@ git clone https://github.com/seu-usuario/projeto-de-coleta-e-analise-de-links.gi
 cd projeto-de-coleta-e-analise-de-links
 pip install requests beautifulsoup4 plotly
 
-Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests para melhorias e correções.
+🌟 Contribuições
+Contribuições são bem-vindas! Se você tiver sugestões, correções ou melhorias, sinta-se à vontade para abrir issues e enviar pull requests.
 
-Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
+📞 Contato
+Para mais informações, entre em contato:
 
-Contato
-Para dúvidas ou sugestões, entre em contato:
+Email: nevesmarcos42@gmail.com
+
+LinkedIn: linkedin.com/in/nevesmarcos
+
+Obrigado por conferir este projeto! Se você achou interessante, deixe uma estrela no repositório e compartilhe com seus colegas. 🚀✨
 
