@@ -16,7 +16,7 @@ Este projeto realiza a coleta de links a partir de uma página web específica e
 ## Instalação
 Clone o repositório e instale as bibliotecas necessárias:
 ```sh
-git clone https://github.com/seu-usuario/projeto-de-coleta-e-analise-de-links.git
+git clone https://github.com/nevesmarcos42/projeto-de-coleta-e-analise-de-links.git
 cd projeto-de-coleta-e-analise-de-links
 pip install requests beautifulsoup4 plotly
 
